@@ -1,0 +1,764 @@
+1642523471075	geckodriver	INFO	Listening on 127.0.0.1:54795
+1642523474104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54796" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileKzqBho"
+1642523474592	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileKzqBho\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54796/devtools/browser/9815bb91-0d3c-4634-a03b-26f66d4b934a
+1642523476367	Marionette	INFO	Listening on port 54803
+1642523476754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642523489298	Marionette	INFO	Stopped listening on port 54803
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642523497707	geckodriver	INFO	Listening on 127.0.0.1:54857
+1642523500709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54858" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileq6vJsu"
+1642523501097	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileq6vJsu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54858/devtools/browser/aeaf6bb4-1388-4de4-9668-f5a653ade146
+1642523502878	Marionette	INFO	Listening on port 54863
+1642523503376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1642523954062	Marionette	INFO	Stopped listening on port 54863
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642523994498	geckodriver	INFO	Listening on 127.0.0.1:54969
+1642523997536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54970" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileP3Xv4X"
+1642523997991	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileP3Xv4X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54970/devtools/browser/4185697a-583e-4d39-9d43-14f1d8b94986
+1642523999779	Marionette	INFO	Listening on port 54975
+1642524000200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+1642524059220	Marionette	INFO	Stopped listening on port 54975
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642524071306	geckodriver	INFO	Listening on 127.0.0.1:55039
+1642524074350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55040" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileKc05pL"
+1642524074807	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileKc05pL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55040/devtools/browser/0f547c2f-ce44-466b-94c2-77e09c71cee1
+1642524076694	Marionette	INFO	Listening on port 55045
+1642524077023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1642524486639	Marionette	INFO	Stopped listening on port 55045
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 4704, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642524510530	geckodriver	INFO	Listening on 127.0.0.1:55189
+1642524513579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55190" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofiletj0QTa"
+1642524514033	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofiletj0QTa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55190/devtools/browser/ede92d4f-02f6-4383-8723-a80b93daaf4b
+1642524515979	Marionette	INFO	Listening on port 55195
+1642524516250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+1642524567751	Marionette	INFO	Stopped listening on port 55195
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642524573213	geckodriver	INFO	Listening on 127.0.0.1:55258
+1642524576229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55259" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileB5EvPM"
+1642524576614	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileB5EvPM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55259/devtools/browser/fd3552ad-4db6-4d27-ae29-a84e598a7bc4
+1642524578462	Marionette	INFO	Listening on port 55264
+1642524578894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642524701146	Marionette	INFO	Stopped listening on port 55264
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642524705322	geckodriver	INFO	Listening on 127.0.0.1:55353
+1642524708326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55354" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofiletD9Lcb"
+1642524708749	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofiletD9Lcb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55354/devtools/browser/a559fe24-bede-473b-b8a7-c233d3f20af1
+1642524710713	Marionette	INFO	Listening on port 55359
+1642524710982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1642525581806	Marionette	INFO	Stopped listening on port 55359
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642525641951	geckodriver	INFO	Listening on 127.0.0.1:55586
+1642525644990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55587" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofile2eidgK"
+1642525645443	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofile2eidgK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55587/devtools/browser/1aa887da-fe00-4cfc-8294-a844b9d2f2b6
+1642525647495	Marionette	INFO	Listening on port 55592
+1642525647665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642525718702	Marionette	INFO	Stopped listening on port 55592
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642525757825	geckodriver	INFO	Listening on 127.0.0.1:55689
+1642525760855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55690" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofile7fvhrt"
+1642525761326	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofile7fvhrt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55690/devtools/browser/d8bbdc5c-a3b4-452f-a2df-2dfe7573afe8
+1642525763223	Marionette	INFO	Listening on port 55695
+1642525763529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642525769481	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642525770225	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1642529260487	Marionette	INFO	Stopped listening on port 55695
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12008, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ew NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileYAENKg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53878/devtools/browser/850ef90e-a642-4a54-83eb-db80766ea701
+1642528974089	Marionette	INFO	Listening on port 53883
+1642528974181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642528999282	Marionette	INFO	Stopped listening on port 53883
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642529257062	geckodriver	INFO	Listening on 127.0.0.1:53970
+1642529260085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53971" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileI9cS1q"
+1642529260503	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileI9cS1q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53971/devtools/browser/1608616d-ce6f-4061-b5b4-753ce26e9303
+1642529262418	Marionette	INFO	Listening on port 53977
+1642529262758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642529270008	Marionette	INFO	Stopped listening on port 53977
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642529279465	geckodriver	INFO	Listening on 127.0.0.1:54031
+1642529282463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54032" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileN13Gs8"
+1642529282857	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileN13Gs8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54032/devtools/browser/cb0e074f-d4e7-4bcd-8229-21b758d81fec
+1642529284845	Marionette	INFO	Listening on port 54037
+1642529285148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642529291069	Marionette	INFO	Stopped listening on port 54037
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642529313505	geckodriver	INFO	Listening on 127.0.0.1:54104
+1642529316487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54105" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileivDXJU"
+1642529316935	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileivDXJU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54105/devtools/browser/5d4a8d67-8c92-46ec-8193-6224034edfa1
+1642529318822	Marionette	INFO	Listening on port 54110
+1642529319161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+1642529384435	Marionette	INFO	Stopped listening on port 54110
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+6V9v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54177/devtools/browser/894f793a-4d2b-4f06-8933-da93b105e0e0
+1642529383076	Marionette	INFO	Listening on port 54185
+1642529383393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642529412718	Marionette	INFO	Stopped listening on port 54185
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 18256, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642529456134	geckodriver	INFO	Listening on 127.0.0.1:54272
+1642529459186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54273" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileCQkw1e"
+1642529459641	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileCQkw1e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54273/devtools/browser/b4d4a847-6887-4c70-a329-19f967b87af0
+1642529461420	Marionette	INFO	Listening on port 54279
+1642529461847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642529590757	Marionette	INFO	Stopped listening on port 54279
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642529595240	geckodriver	INFO	Listening on 127.0.0.1:54366
+1642529598221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54367" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileiyHf6v"
+1642529598640	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileiyHf6v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54367/devtools/browser/9f144bb9-1f08-4c0e-b56b-fbcd9f9ea2a5
+1642529600502	Marionette	INFO	Listening on port 54374
+1642529600876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/js/funcoesDeUsoComum.js, line 666: ReferenceError: ValidacaoUtils is not defined
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/js/funcoesDeUsoComum.js, line 666: ReferenceError: ValidacaoUtils is not defined
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/js/funcoesDeUsoComum.js, line 666: ReferenceError: ValidacaoUtils is not defined
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/js/funcoesDeUsoComum.js, line 666: ReferenceError: ValidacaoUtils is not defined
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/js/funcoesDeUsoComum.js, line 666: ReferenceError: ValidacaoUtils is not defined
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/assets/js/system-menu.js, line 20: ReferenceError: DEFINEALLPAGES_atribuiCaracteristicasCitAjaxForm is not defined
+1642529632304	Marionette	INFO	Stopped listening on port 54374
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642529642403	geckodriver	INFO	Listening on 127.0.0.1:54451
+1642529645436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54452" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofilemmnS0L"
+1642529645798	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofilemmnS0L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54452/devtools/browser/304a535d-acf7-4648-89c4-17d4c7d754b7
+1642529647621	Marionette	INFO	Listening on port 54457
+1642529648100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642529754710	Marionette	INFO	Stopped listening on port 54457
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ozlz4", (void 0)))
+DevTools listening on ws://localhost:54547/devtools/browser/e96ecafa-2e99-4769-88bb-08980d2a45b6
+1642529751639	Marionette	INFO	Listening on port 54552
+1642529752005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642529810093	Marionette	INFO	Stopped listening on port 54552
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+8ffG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54615/devtools/browser/e2382174-d2f0-45a4-8fb8-e7efb30a26ee
+1642529808559	Marionette	INFO	Listening on port 54620
+1642529808986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642529890231	Marionette	INFO	Stopped listening on port 54620
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICeconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofilenEs1ov\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54689/devtools/browser/5ba329db-053b-47de-8e5f-9009348cd0a1
+1642529891697	Marionette	INFO	Listening on port 54694
+1642529891898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642530638422	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1642530953053	Marionette	INFO	Stopped listening on port 54694
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642531185842	geckodriver	INFO	Listening on 127.0.0.1:54929
+1642531188837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54930" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofile8Jq8ko"
+1642531189232	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofile8Jq8ko\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54930/devtools/browser/f93fed66-cc4c-49a8-9f4a-dece3be0bc4e
+1642531191140	Marionette	INFO	Listening on port 54935
+1642531191493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642531474948	Marionette	INFO	Stopped listening on port 54935
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642531494407	geckodriver	INFO	Listening on 127.0.0.1:55047
+1642531497377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55048" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofiledmxEAb"
+1642531497786	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofiledmxEAb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55048/devtools/browser/73d13113-0795-46df-aeb9-928a2dbbcbf0
+1642531499640	Marionette	INFO	Listening on port 55053
+1642531500039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642532142030	Marionette	INFO	Stopped listening on port 55053
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642532870446	geckodriver	INFO	Listening on 127.0.0.1:55253
+1642532873434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55254" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofilemsFMjc"
+1642532873834	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofilemsFMjc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55254/devtools/browser/1f1166f3-9fde-4a41-b237-1af2b3557feb
+1642532875644	Marionette	INFO	Listening on port 55261
+1642532876080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642532902481	Marionette	INFO	Stopped listening on port 55261
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642532927194	geckodriver	INFO	Listening on 127.0.0.1:55354
+1642532930139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55355" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileFQIffL"
+1642532930591	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileFQIffL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55355/devtools/browser/729d73c3-3dfb-42ca-b292-7e0d25363084
+1642532932528	Marionette	INFO	Listening on port 55360
+1642532932805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1642533242738	Marionette	INFO	Stopped listening on port 55360
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642533245615	geckodriver	INFO	Listening on 127.0.0.1:55474
+1642533248598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55475" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileINL2D3"
+1642533249046	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileINL2D3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55475/devtools/browser/9637e9b0-f373-4ea0-9373-f7f4f72b9478
+1642533250943	Marionette	INFO	Listening on port 55480
+1642533251266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642533802437	Marionette	INFO	Stopped listening on port 55480
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 14180, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642533856713	geckodriver	INFO	Listening on 127.0.0.1:55697
+1642533859715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55698" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofilerormwa"
+1642533860093	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofilerormwa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55698/devtools/browser/ba85f2e4-f67c-48be-8c33-475984fd1cad
+1642533862161	Marionette	INFO	Listening on port 55703
+1642533862389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" ({})
+console.error: ({})
+console.error: "Could not get the list of font families" (new Error("NS_ERROR_UNEXPECTED from: server0.conn0.windowGlobal2147483662/pagestyle24 (resource://devtools/server/actors/page-style.js:379:0)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 335))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:335:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:733:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:242:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:650:12
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1642534643803	Marionette	INFO	Stopped listening on port 55703
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642534672085	geckodriver	INFO	Listening on 127.0.0.1:51497
+1642534675100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51498" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileCttMZZ"
+1642534675572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileCttMZZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51498/devtools/browser/f5f43d9b-f87f-44a7-bb77-916dc7e6609e
+1642534677479	Marionette	INFO	Listening on port 51503
+1642534677776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/js/funcoesDeUsoComum.js, line 666: ReferenceError: ValidacaoUtils is not defined
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/js/funcoesDeUsoComum.js, line 666: ReferenceError: ValidacaoUtils is not defined
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/js/funcoesDeUsoComum.js, line 666: ReferenceError: ValidacaoUtils is not defined
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/js/funcoesDeUsoComum.js, line 666: ReferenceError: ValidacaoUtils is not defined
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/js/funcoesDeUsoComum.js, line 666: ReferenceError: ValidacaoUtils is not defined
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/assets/js/system-menu.js, line 20: ReferenceError: DEFINEALLPAGES_atribuiCaracteristicasCitAjaxForm is not defined
+1642534688956	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1642534935591	Marionette	INFO	Stopped listening on port 51503
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642534937760	geckodriver	INFO	Listening on 127.0.0.1:51584
+1642534940809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51585" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileu0r8TQ"
+1642534941268	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileu0r8TQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51585/devtools/browser/236a8984-e7b9-4985-b80c-fd916c3d6f08
+1642534943121	Marionette	INFO	Listening on port 51590
+1642534943461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642537696409	Marionette	INFO	Stopped listening on port 51590
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642537698921	geckodriver	INFO	Listening on 127.0.0.1:58896
+1642537701877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58897" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileSZPk1L"
+1642537702357	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileSZPk1L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58897/devtools/browser/48d36049-72bf-4ea5-b3dc-e38b8033e241
+1642537704405	Marionette	INFO	Listening on port 58902
+1642537704547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642540141597	Marionette	INFO	Stopped listening on port 58902
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642540155259	geckodriver	INFO	Listening on 127.0.0.1:63189
+1642540158269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63190" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofilegDzmGt"
+1642540158654	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofilegDzmGt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63190/devtools/browser/87294941-1ecc-4a5f-a0f3-ae22bfbdfe87
+1642540160690	Marionette	INFO	Listening on port 63195
+1642540160932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/js/funcoesDeUsoComum.js, line 666: ReferenceError: ValidacaoUtils is not defined
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/js/funcoesDeUsoComum.js, line 666: ReferenceError: ValidacaoUtils is not defined
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/js/funcoesDeUsoComum.js, line 666: ReferenceError: ValidacaoUtils is not defined
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/js/funcoesDeUsoComum.js, line 666: ReferenceError: ValidacaoUtils is not defined
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/js/funcoesDeUsoComum.js, line 666: ReferenceError: ValidacaoUtils is not defined
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/assets/js/system-menu.js, line 20: ReferenceError: DEFINEALLPAGES_atribuiCaracteristicasCitAjaxForm is not defined
+1642540178025	Marionette	INFO	Stopped listening on port 63195
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642540181256	geckodriver	INFO	Listening on 127.0.0.1:63257
+1642540184268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63258" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofilecXKzZs"
+1642540184684	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofilecXKzZs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63258/devtools/browser/847634e8-9690-4423-9116-7898e3422030
+1642540186964	Marionette	INFO	Listening on port 63263
+1642540187467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1642540313681	Marionette	INFO	Stopped listening on port 63263
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642540315262	geckodriver	INFO	Listening on 127.0.0.1:63352
+1642540318265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63353" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofilef9unVB"
+1642540318671	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofilef9unVB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63353/devtools/browser/31991a82-df70-41b5-a10b-c8c32e2dcd71
+1642540320592	Marionette	INFO	Listening on port 63358
+1642540320920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal2147483662/pagestyle24 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1642540982304	Marionette	INFO	Stopped listening on port 63358
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642540989439	geckodriver	INFO	Listening on 127.0.0.1:50626
+1642540992473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50627" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileq73mHr"
+1642540992948	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileq73mHr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50627/devtools/browser/4fd3969b-1364-476b-a7ae-c0d747e0cb1d
+1642540994875	Marionette	INFO	Listening on port 50633
+1642540995134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642544341333	Marionette	INFO	Stopped listening on port 50633
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 11676, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
