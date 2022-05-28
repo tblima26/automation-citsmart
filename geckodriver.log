@@ -3392,3 +3392,23 @@ webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1653760073615	geckodriver	INFO	Listening on 127.0.0.1:64553
+1653760076658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileikOzuD"
+1653760076981	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileikOzuD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64554/devtools/browser/94a6fc7d-a18f-42ae-a6f2-b24c44b4bf53
+1653760078453	Marionette	INFO	Listening on port 64577
+Read port: 64577
+1653760078557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/pages/smartDecisions/scripts/panels.js, line 94: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://suporte.sme.prefeitura.sp.gov.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653760098294	Marionette	INFO	Stopped listening on port 64577
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
