@@ -3412,3 +3412,72 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1662330278508	geckodriver	INFO	Listening on 127.0.0.1:62812
+1662330281541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileXS7E5R"
+1662330281743	Marionette	INFO	Marionette enabled
+1662330281746	Marionette	INFO	Listening on port 62822
+WebDriver BiDi listening on ws://localhost:62813
+Read port: 62822
+1662330281838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileXS7E5R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62813/devtools/browser/964d27d1-81a7-40ba-b370-d1e41a9c9998
+[2022-09-04T22:24:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-04T22:24:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-04T22:24:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-04T22:24:55Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1662330297593	Marionette	INFO	Stopped listening on port 62822
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662330302064	geckodriver	INFO	Listening on 127.0.0.1:62866
+1662330305122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofilehSgX9A"
+1662330305329	Marionette	INFO	Marionette enabled
+1662330305332	Marionette	INFO	Listening on port 62876
+WebDriver BiDi listening on ws://localhost:62867
+Read port: 62876
+1662330305441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofilehSgX9A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62867/devtools/browser/ec8f7b9a-c3bc-4830-98ac-65f6fda87169
+[2022-09-04T22:25:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-04T22:25:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-04T22:25:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-04T22:25:10Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1662330314833	Marionette	INFO	Stopped listening on port 62876
+[Parent 18412, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662414458800	geckodriver	INFO	Listening on 127.0.0.1:59783
+1662414461840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59784" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileFKkiWy"
+1662414462043	Marionette	INFO	Marionette enabled
+1662414462047	Marionette	INFO	Listening on port 59793
+WebDriver BiDi listening on ws://localhost:59784
+Read port: 59793
+1662414462142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileFKkiWy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59784/devtools/browser/cc8bc22f-3a51-4b7d-8bf5-64516faf8fa4
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/pages/smartDecisions/scripts/panels.js, line 94: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1662414644675	Marionette	INFO	Stopped listening on port 59793
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662414651737	geckodriver	INFO	Listening on 127.0.0.1:51970
+1662414654770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileeGRyOk"
+1662414654969	Marionette	INFO	Marionette enabled
+1662414654972	Marionette	INFO	Listening on port 51980
+WebDriver BiDi listening on ws://localhost:51971
+Read port: 51980
+1662414655059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileeGRyOk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51971/devtools/browser/2c7c3755-b0b8-4288-b6f7-1868de5c17b5
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/pages/smartDecisions/scripts/panels.js, line 94: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suporte.sme.prefeitura.sp.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suporte.sme.prefeitura.sp.gov.br."
+1662414697262	Marionette	INFO	Stopped listening on port 51980
+1662414714099	geckodriver	INFO	Listening on 127.0.0.1:61924
+1662414717134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61925" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileaS7iwR"
+1662414717324	Marionette	INFO	Marionette enabled
+1662414717327	Marionette	INFO	Listening on port 61934
+WebDriver BiDi listening on ws://localhost:61925
+Read port: 61934
+1662414717428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Thiago\\AppData\\Local\\Temp\\rust_mozprofileaS7iwR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61925/devtools/browser/88f6cbbc-20eb-4566-8d12-22184e883bce
+JavaScript error: https://suporte.sme.prefeitura.sp.gov.br/citsmart/pages/smartDecisions/scripts/panels.js, line 94: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suporte.sme.prefeitura.sp.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://suporte.sme.prefeitura.sp.gov.br."
+1662414763540	Marionette	INFO	Stopped listening on port 61934
